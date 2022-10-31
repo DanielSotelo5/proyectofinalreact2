@@ -2,7 +2,7 @@
   "name": "movies-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://DanielSotelo5.github.io/proyectoreact",
+  "homepage": "http://DanielSotelo5.github.io/proyectofinalreact2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
